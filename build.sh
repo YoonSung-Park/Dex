@@ -1,0 +1,1 @@
+g++ ./src/ccalc.cpp --static -o ccalc.elf
